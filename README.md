@@ -1,46 +1,59 @@
-# Getting Started with Create React App
+<h1 align="center"> React JS - ToDO List</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Índice
+- [Demo](#demo)
+- [🛠 Sobre o projeto](#-sobre-o-projeto)
+- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
+- [📥 Como usar](#-como-usar)
+- [🚀 Autor](#-autor)
+  
 
-## Available Scripts
+# Demo
+<p align="center">
+<img src="./readme.gif" align="center" /> 
+</p>
 
-In the project directory, you can run:
+---
+# 🛠 Sobre o projeto
 
-### `npm start`
+<p>Este projeto foi desenvolvido para treinar as habilidades de React JS, juntamente com as lives do Bonieky.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# 🚀 Tecnologias utilizadas neste projeto
 
-### `npm test`
+- [x] JAVASCRIPT
+- [x] REACT JS
+- [x] TYPESCRIPT
+- [x] STYLED-COMPONENTS
+- [x] COMPONENTS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 📥 Como usar
+```js
 
-### `npm run build`
+    //Clonar o repositório
+    $ git clone https://github.com/TayseRosa/ReactJs-ToDo.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    //Entrar no diretório
+    $ cd ReactJs-ToDo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    //Instalar bilbiotecas
+    $ npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    //Startar o projeto
+    $ npm start
 
-### `npm run eject`
+``` 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# 🚀 Autor
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<a href="https://www.tayserosa.dev">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31596454?v=4" width="100px;" alt="Tayse Rosa" style="border-radius:50%"/>
+ <br />
+ <sub><b>www.tayserosa.dev</b></sub></a> <a href="https://www.tayserosa.dev" title="Tayse Rosa" target="_blank">🚀</a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Feito com ❤️ por Tayse Rosa 🚀
 
-## Learn More
+👋🏽 Entre em contato!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Linkedin Badge](https://img.shields.io/badge/-TayseRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayse-rosa-3b683151/)[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TayseRosa/)[![Netlify Status](https://api.netlify.com/api/v1/badges/c01d7d2b-d460-4cf3-b437-eab0e5b249c7/deploy-status)](https://app.netlify.com/sites/tayserosa-todo-reactjs/deploys)
