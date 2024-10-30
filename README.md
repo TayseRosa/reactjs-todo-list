@@ -1,14 +1,5 @@
 <h1 align="center"> React JS - ToDO List</h1>
 
-#Índice
-- [Demo](#demo)
-- [🛠 Sobre o projeto](#-sobre-o-projeto)
-- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-- [📥 Como usar](#-como-usar)
-- [🚀 Autor](#-autor)
-  
-
-# Demo
 <p align="center">
 <img src="./readme.gif" align="center" /> 
 </p>
